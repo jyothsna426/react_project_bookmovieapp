@@ -1,0 +1,20 @@
+.upMovies{
+    background-color: #ff9999;
+    height:36px;
+    width:100%;
+    padding:8px;
+    
+}
+.upText{
+    font-size: 1rem;
+    text-align: center;
+}
+.root{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+  }
+  .gridList {
+    flex-Wrap: nowrap;
+  }
